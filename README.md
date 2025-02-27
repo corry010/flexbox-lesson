@@ -1,1 +1,1 @@
-# flexbox-lesson
+For this flexbox project I will be copying code from the lesson to understand flexbox
